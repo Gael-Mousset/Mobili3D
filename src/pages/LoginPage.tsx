@@ -9,7 +9,7 @@ interface Props {
 
 export default function LoginPage({ onLogin }: Props) {
   const navigate = useNavigate();
-  const [email, setEmail] = useState('demo@mobili3d.fr');
+  const [email, setEmail] = useState('demo@mobi3d.fr');
   const [pass, setPass] = useState('demo2026');
   const [loading, setLoading] = useState(false);
 
@@ -45,7 +45,7 @@ export default function LoginPage({ onLogin }: Props) {
               <Box size={16} />
             </div>
             <span className="text-base font-extrabold">
-              Mobili<span className="text-lime-accent">3D</span>
+              Mobi<span className="text-lime-accent">3D</span>
             </span>
           </div>
 

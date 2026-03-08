@@ -26,7 +26,7 @@ export default function Sidebar({ user, onLogout }: Props) {
           <Box size={16} />
         </div>
         <span className="text-base font-extrabold tracking-tight">
-          Mobili<span className="text-lime-accent">3D</span>
+          Mobi<span className="text-lime-accent">3D</span>
         </span>
       </div>
 

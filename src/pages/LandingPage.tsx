@@ -32,7 +32,7 @@ export default function LandingPage() {
             <Box size={18} />
           </div>
           <span className="text-lg font-extrabold tracking-tight">
-            Mobili<span className="text-lime-accent">3D</span>
+            Mobi<span className="text-lime-accent">3D</span>
           </span>
         </div>
         <button
@@ -99,7 +99,7 @@ export default function LandingPage() {
       </section>
 
       <footer className="relative z-10 border-t border-dark-border px-10 py-6 text-center text-xs text-gray-700">
-        © 2026 Mobili3D — MVP Prototype
+        © 2026 Mobi3D — MVP Prototype
       </footer>
     </div>
   );

@@ -193,7 +193,7 @@ export default function ScannerPage({ user, onLogout }: Props) {
 
             {/* State selector */}
             <div className="mb-7">
-              <label className={labelClass}>État du mobilier</label>
+              <label className={labelClass}>État du mobier</label>
               <div className="grid grid-cols-3 gap-3">
                 {STATES.map((s) => {
                   const active = meta.state === s.key;

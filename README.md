@@ -1,4 +1,4 @@
-# Mobili3D — MVP
+# Mobi3D — MVP
 
 > Plateforme de valorisation du mobilier professionnel d'entreprise avec visualisation 3D.
 
@@ -17,9 +17,9 @@ npm run dev
 
 ## 🔐 Identifiants démo
 
-| Email               | Mot de passe |
-|---------------------|--------------|
-| demo@mobili3d.fr    | demo2026     |
+| Email          | Mot de passe |
+| -------------- | ------------ |
+| demo@mobi3d.fr | demo2026     |
 
 ## 📁 Structure du projet
 
@@ -54,17 +54,17 @@ src/
 
 ## 🛠 Stack technique
 
-| Technologie         | Rôle                        |
-|---------------------|-----------------------------|
-| React 18            | Framework UI                |
-| TypeScript          | Typage statique             |
-| Vite 6              | Build tool                  |
-| React Router 6      | Routing SPA                 |
-| Tailwind CSS 3      | Styles utilitaires          |
-| React Three Fiber   | Visualisation 3D            |
-| @react-three/drei   | Helpers 3D (OrbitControls)  |
-| Three.js            | Moteur 3D                   |
-| Lucide React        | Icônes                      |
+| Technologie       | Rôle                       |
+| ----------------- | -------------------------- |
+| React 18          | Framework UI               |
+| TypeScript        | Typage statique            |
+| Vite 6            | Build tool                 |
+| React Router 6    | Routing SPA                |
+| Tailwind CSS 3    | Styles utilitaires         |
+| React Three Fiber | Visualisation 3D           |
+| @react-three/drei | Helpers 3D (OrbitControls) |
+| Three.js          | Moteur 3D                  |
+| Lucide React      | Icônes                     |
 
 ## 🎨 Design System
 

@@ -1,7 +1,7 @@
 import { useState, useCallback, useEffect } from 'react';
 import type { User } from '../types';
 
-const STORAGE_KEY = 'mobili3d_user';
+const STORAGE_KEY = 'mobi3d_user';
 
 export function useAuth() {
   const [user, setUser] = useState<User | null>(() => {
