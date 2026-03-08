@@ -4,6 +4,9 @@ export default {
   theme: {
     extend: {
       colors: {
+        brand: {
+          blue: '#004aad',
+        },
         lime: {
           accent: '#c8e630',
           dark: '#a5bf28',

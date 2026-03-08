@@ -28,11 +28,11 @@ export default function LandingPage() {
       {/* Nav */}
       <nav className="relative z-10 flex items-center justify-between px-10 py-5 border-b border-dark-border">
         <div className="flex items-center gap-2.5">
-          <div className="w-9 h-9 rounded-[10px] bg-lime-accent flex items-center justify-center text-black">
+          <div className="w-9 h-9 rounded-[10px] bg-brand-blue flex items-center justify-center text-white">
             <Box size={18} />
           </div>
           <span className="text-lg font-extrabold tracking-tight">
-            Mobi<span className="text-lime-accent">3D</span>
+            Mobi<span className="text-brand-blue">3D</span>
           </span>
         </div>
         <button

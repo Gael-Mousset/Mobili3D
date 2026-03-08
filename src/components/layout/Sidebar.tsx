@@ -22,11 +22,11 @@ export default function Sidebar({ user, onLogout }: Props) {
     <aside className="fixed left-0 top-0 bottom-0 w-[220px] bg-dark-surface border-r border-dark-border flex flex-col z-30">
       {/* Logo */}
       <div className="flex items-center gap-2.5 px-5 py-5 border-b border-dark-border">
-        <div className="w-8 h-8 rounded-lg bg-lime-accent flex items-center justify-center text-black">
+        <div className="w-8 h-8 rounded-lg bg-brand-blue flex items-center justify-center text-white">
           <Box size={16} />
         </div>
         <span className="text-base font-extrabold tracking-tight">
-          Mobi<span className="text-lime-accent">3D</span>
+          Mobi<span className="text-brand-blue">3D</span>
         </span>
       </div>
 
